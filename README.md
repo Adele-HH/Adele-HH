@@ -1,4 +1,4 @@
-### <p style="text-align: center;">Hi there, I'm Adele 👋</p>
+***<p style="text-align: center;">Hi there, I'm Adele 👋</p>
 ---
 
 #### I have just finished the Data Practitioner Bootcamp at neuefische and am looking forward to new challenges!
