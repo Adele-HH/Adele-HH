@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Adele 👋
+
+#### I have just finished the Data Practitioner Bootcamp at neuefische and am looking forward to new challenges!
+
+#### Connect with me: 
+
+#### Languages and Tools:
 
 <!--
 **Adele-HH/Adele-HH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
